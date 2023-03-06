@@ -1,2 +1,6 @@
-# overwatch-discord-bot
-옵치모임 Discord Bot
+### overwatch-discord-bot
+
+<br>
+
+- 팀나누기
+
